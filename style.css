@@ -1,0 +1,12 @@
+.page1{
+    background-image: linear-gradient(rgb(255, 186, 108),white);
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+}
+.square {
+    height: 75px;
+    width: 150px;
+    background-color: #df6262;
+    border-radius: 20%;
+}
